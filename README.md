@@ -1,7 +1,11 @@
 
-SPORTS BETTING DAPP
+## SPORTS BETTING DAPP
 
+  A Sports Betting D'app
+  1) Each player can bet a certain amount of ethers on a team
+  2) The smart-contract redistribute the prices to the players who betted on the right team
 ------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
